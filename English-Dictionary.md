@@ -32,7 +32,10 @@ A company or other organization that operates without hierarchical management.
 [https://ethereum.org/en/glossary/]
 
 ### Dapp
+Decentralized application. At a minimum, it is a smart contract and a web user interface. More broadly, a Dapp is a web application that is built on top of open, decentralized, peer-to-peer infrastructure services. In addition, many Dapps include decentralized storage and/or a message protocol and platform.
 [https://ethereum.org/en/glossary/]
+
+### Decentralized Exchange (DEX)
 A type of dapp that lets you swap tokens with peers on the network. You need ether to use one (to pay transactions fees) but they are not subject to geographical restrictions like centralized exchanges – anyone can participate.
 [https://ethereum.org/en/glossary/]
 
