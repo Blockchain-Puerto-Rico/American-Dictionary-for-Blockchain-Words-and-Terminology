@@ -13,6 +13,10 @@ Most generally, this represents an EOA or contract that can receive (destination
 
 ## B
 
+### Block
+A collection of required information (a block header) about the comprised transactions, and a set of other block headers known as ommers. Blocks are added to the Ethereum network by miners.
+[https://ethereum.org/en/glossary/]
+
 ### Blockchain
 In Ethereum, a sequence of blocks validated by the proof-of-work system, each linking to its predecessor all the way to the genesis block. There is no block size limit; it instead uses varying gas limits.
 [https://ethereum.org/en/glossary/]
@@ -23,7 +27,17 @@ In Ethereum, a sequence of blocks validated by the proof-of-work system, each li
 When numerous nodes (usually most nodes on the network) all have the same blocks in their locally validated best blockchain. 
 [https://ethereum.org/en/glossary/]
 
+### Contract Account
+An account containing code that executes whenever it receives a transaction from another account (EOA or contract).
+[https://ethereum.org/en/glossary/]
 
+### Contract Creation Transaction
+A special Transaction with the zero address as the recipient, that is used to register a contract and record it on the Ethereum blockchain.
+[https://ethereum.org/en/glossary/]
+
+### Crosslink *
+A crosslink provides a summary of a shard's state. It's how shard chains will communicate with one another via the Beacon Chain in the sharded proof-of-stak system. 
+[https://ethereum.org/en/glossary/]
 
 ## D
 
@@ -40,7 +54,15 @@ A type of dapp that lets you swap tokens with peers on the network. You need eth
 [https://ethereum.org/en/glossary/]
 
 ### Decentralized Finance
-a broad category of Dapps aiming to provide financial services backed by the blockchain, without any intermediaries, so anyone with an internet connection can participate.
+A broad category of Dapps aiming to provide financial services backed by the blockchain, without any intermediaries, so anyone with an internet connection can participate.
+[https://ethereum.org/en/glossary/]
+
+### Difficulty
+A network-wide setting tat controls how much computation is required to produce a proof-of-work.
+[https://ethereum.org/en/glossary/]
+
+###Difficulty Bomb *
+Planned exponential increase in proof-of-work difficulty setting designed to motivate the transition to proof-of-stake, reducing the changes of a fork.
 [https://ethereum.org/en/glossary/]
 
 ## E
