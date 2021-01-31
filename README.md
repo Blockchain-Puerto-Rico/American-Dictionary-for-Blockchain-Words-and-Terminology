@@ -1,32 +1,53 @@
 Multilingual Blockchain Glossary of Words and Terminology 📕
 =======
-This repository serves as the home for our open source literary project set on officializing a multi-lingual list of terms related to Blockchain technology, cryptocurrencies, digital assets, etc., comprehensive enough to be useful in various contexts, from educational ones to legal matters. This serves a dual purpose of also supporting our project of submitting the first open source-collaborated Blockchain/crypto-focused bill to be submitted to Puerto Rico legislature ([link to repo](https://github.com/Blockchain-Puerto-Rico/Judicial-Recognition-of-Citizen-Rights-over-Certain-Types-of-Digital-Assets))!
+This repository serves as the home for our open source literary project set on officializing a multi-lingual list of terms related to Blockchain technology, cryptocurrencies, digital assets, etc., comprehensive enough to be useful in various contexts, from educational ones to legal matters. This serves a dual purpose of also supporting our project of submitting the first open source-collaborated Blockchain/crypto-focused bill to be submitted to Puerto Rico legislature ([repo link](https://github.com/Blockchain-Puerto-Rico/Judicial-Recognition-of-Citizen-Rights-over-Certain-Types-of-Digital-Assets))!
 
-![Blockchain black banner](8fbf11e1e73a05de-2048x1024.webp)
+![Blockchain black banner](blockchain_banner.webp)
 
-We encourage anyone to contribute, we've laid out some guidelines for that below. We currently have some initial help for the Spanish and Portuguese version of the glossary, other languages are also welcome!
+We encourage anyone to contribute, we've laid out some guidelines for that below. We currently have some initial help for the Spanish, Portuguese, and Chinese (Simplified) version of the glossary, other languages are also welcome!
 
-- [Español](#Glosario-Multilingüe-para-Palabras-y-Terminología-de-Registros-Distribuidos) 
-- [Português](#Glossário-Multi-Línguas-para-Palavras-e-Terminologia-de-Blockchain) 
-
+- [Español]
+- [Português]
+- [简体中文]
 
 ## Format 
 
-WIP!
+The glossary will ordered alphabetically on the Dictionary-[Language].md file.
 
-## Rules for Contributing to the Words Terms Repository
+### Basic Format
+* Word | (IPA pronunciation) | (grammatical classification)
+	* (Number of entry per grammatical classification)
+		* Definition
+		* Translations in Glossary: [Link]
+		* Other Details
 
-WPI!
+Grammatical Classifications: Noun, Pronoun, Verb, Adjective, Adverb
+Other Details: Relevant links, further explanation, etc.
 
-Looking for more contributions!
+### Example
 
-# Glosario Multilingüe para Palabras y Terminología de Registros Distribuidos 🇪🇸
-Este repositorio sive como hogar para nuestro proyecto estilo 'código abierto' literario que tiene como meta oficializar una lista multilingüe de términos relacionados a la tecnología de registros distribuidos, las cryptomonedas, bienes digitales, etc., que sea lo suficiente exhaustiva para que pueda ser útil en varios ámbitos, desde educativos hasta para materias legales. También tiene un doble propósito de apoyar a nuestro proyecto que tiene como meta presentar a la legislatura de Puerto Rico la primera ley desarrollada de manera 'codigo abierto' y enfocada en lo que son technología de registros distribuidos/crypto.
+- Blockchain |ˈbläk-ˌchān | n.
+	* 1
+		* A digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network.
+		* coming...
+		* Other Details:
 
-Exhortamos a todos a contribuir, abajo hay unas reglas para antes de hacer una propuesta. Actualmente tenemos algo de ayuda inicial para las versiones del español y del portugués, ¡otros lenguajes son muy bienvenidos!
+## How to Contribute
 
-## Fórmato
+Please commit any contributions to the Contributions_pending.md file! Every two weeks we will gather any submitted contributions and conduct polling and general community outreach on social media to gather opinions, additional facts, and related links to be considered and potentially included into the new entry. Suggestions on existing entries are also welcome.
 
-¡TEP!
+* Name
+	* Date
+	* Languages
+	* Entries List
+		* New or Update
+		* Word
+		* Comments
+	* Comments
 
-# Glossário Multi Línguas para Palavras e Terminologia de Blockchain 🇵🇹
+## Contributors
+
+* [Carlos Carle](https://github.com/cacarle) | Project Lead, Primary Contributor [English & Spanish]
+* [José González](https://github.com/gobonzobean) | Primary Contributor [English & Spanish]
+* João Lyra | Primary Contributor [Portuguese]
+* Looking for more!

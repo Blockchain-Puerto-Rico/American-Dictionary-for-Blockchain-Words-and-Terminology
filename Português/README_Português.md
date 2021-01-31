@@ -1,0 +1,1 @@
+# Glossário Multi Línguas para Palavras e Terminologia de Blockchain 🇵🇹
