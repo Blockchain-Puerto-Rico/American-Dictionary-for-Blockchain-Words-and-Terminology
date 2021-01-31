@@ -6,9 +6,9 @@ This repository serves as the home for our open source literary project set on o
 
 We encourage anyone to contribute, we've laid out some guidelines for that below. We currently have some initial help for the Spanish, Portuguese, and Chinese (Simplified) version of the glossary, other languages are also welcome!
 
-- [Español]
-- [Português]
-- [简体中文]
+- [Español]（https://github.com/Blockchain-Puerto-Rico/American-Dictionary-for-Blockchain-Words-and-Terminology/blob/main/Espa%C3%B1ol/README_Espa%C3%B1ol.md）
+- [Português]（https://github.com/Blockchain-Puerto-Rico/American-Dictionary-for-Blockchain-Words-and-Terminology/blob/main/Portugu%C3%AAs/README_Portugu%C3%AAs.md）
+- [简体中文]（https://github.com/Blockchain-Puerto-Rico/American-Dictionary-for-Blockchain-Words-and-Terminology/blob/main/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87/README_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.md）
 
 ## Format 
 
