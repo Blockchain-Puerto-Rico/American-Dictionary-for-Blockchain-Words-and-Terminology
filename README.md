@@ -12,7 +12,7 @@ We encourage anyone to contribute, we've laid out some guidelines for that below
 
 ## Format 
 
-The glossary will ordered alphabetically on the Dictionary-[Language].md file.
+The glossary will be ordered alphabetically on the Glossary-[Language].md file.
 
 ### Basic Format
 * Word | (IPA pronunciation) | (grammatical classification)
@@ -26,7 +26,7 @@ Other Details: Relevant links, further explanation, etc.
 
 ### Example
 
-- Blockchain |ˈbläk-ˌchān | n.
+- Blockchain | ˈbläk-ˌchān | n.
 	* 1
 		* A digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network.
 		* coming...
@@ -34,7 +34,7 @@ Other Details: Relevant links, further explanation, etc.
 
 ## How to Contribute
 
-Please commit any contributions to the Contributions_pending.md file! Every two weeks we will gather any submitted contributions and conduct polling and general community outreach on social media to gather opinions, additional facts, and related links to be considered and potentially included into the new entry. Suggestions on existing entries are also welcome.
+Please commit any contributions to the Contributions_pending.md file! Every two weeks we will gather any submitted contributions and conduct polling and general community outreach on social media to gather opinions, additional facts, and related links to be considered and potentially included into the new entry. Suggestions on existing entries and other discussions about terms are also welcome.
 
 * Name
 	* Date
@@ -43,6 +43,8 @@ Please commit any contributions to the Contributions_pending.md file! Every two 
 		* New or Update
 		* Word
 		* Comments
+		* Discussion
+		* Other
 	* Comments
 
 ## Contributors
