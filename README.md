@@ -15,11 +15,13 @@ We encourage anyone to contribute, we've laid out some guidelines for that below
 The glossary will be ordered alphabetically on the Glossary-[Language].md file.
 
 ### Basic Format
-* Word | (IPA pronunciation) | (grammatical classification)
-	* (Number of entry per grammatical classification)
+* Word | (IPA pronunciation)
+	* (Number of entries)
 		* Definition
 		* Translations in Glossary: [Link]
-		* Other Details
+		* Sorce or contribution
+		* Date included
+		* Other details
 
 Grammatical Classifications: Noun, Pronoun, Verb, Adjective, Adverb
 Other Details: Relevant links, further explanation, etc.
@@ -30,7 +32,9 @@ Other Details: Relevant links, further explanation, etc.
 	* 1
 		* A digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network.
 		* coming...
+		* 2020/3/10
 		* Other Details:
+
 
 ## How to Contribute
 
