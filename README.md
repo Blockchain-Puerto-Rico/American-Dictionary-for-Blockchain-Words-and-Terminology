@@ -30,8 +30,15 @@ Other Details: Relevant links, further explanation, etc.
 
 - Blockchain | ˈbläk-ˌchān | n.
 	* 1
-		* A digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network.
+		* In Ethereum, a sequence of blocks validated by the proof-of-work system, each linking to its predecessor all the way to the genesis block. There is no block size limit; it instead uses varying gas limits.
 		* coming...
+		* ethereum.org/en/glossary
+		* 2020/3/10
+		* Other Details:
+	* 2
+		* A decentralized, digitized ledger that records transaction information about a cryptocurrency in a chronological order.
+		* coming...
+		* academy.binance.com/en/glossary
 		* 2020/3/10
 		* Other Details:
 
