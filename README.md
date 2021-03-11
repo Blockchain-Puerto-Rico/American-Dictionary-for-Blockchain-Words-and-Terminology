@@ -15,7 +15,7 @@ We encourage anyone to contribute, we've laid out some guidelines for that below
 The glossary will be ordered alphabetically on the Glossary-[Language].md file.
 
 ### Basic Format
-* Word | (IPA pronunciation)
+* Word | (IPA pronunciation) | Grammatical Classification
 	* (Number of entries)
 		* Definition
 		* Translations in Glossary: [Link]
